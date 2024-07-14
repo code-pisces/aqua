@@ -71,7 +71,7 @@ After created your lake, you can use in anywhere in your app:
 </template>
 
 <script setup>
-import Lake from "aqua";
+import { Lake } from "aqua";
 
 import { chessApp } from "@lakes/chess-app-lakes";
 </script>
